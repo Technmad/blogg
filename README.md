@@ -1,2 +1,2 @@
-# NextCal
-An advanced calculator 
+# blogg
+An react based blogging platform 
